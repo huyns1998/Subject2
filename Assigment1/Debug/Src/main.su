@@ -1,0 +1,11 @@
+main.c:72:6:AppInitCommon	16	static
+main.c:96:13:AppStateManager	16	static
+main.c:116:13:SetStateApp	16	static
+main.c:120:20:GetStateApp	4	static
+main.c:125:6:LoadConfiguration	16	static
+main.c:133:6:DeviceStateMachine	24	static
+main.c:262:6:lightIncrease	16	static
+main.c:274:6:lightDecrease	16	static
+main.c:286:6:Task_multiSensorScan	16	static
+main.c:324:6:delay_ms	24	static
+main.c:331:5:main	8	static
